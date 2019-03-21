@@ -64,12 +64,13 @@ h1 {
     display: inline-block;
 }
 
-.div_benefits_uimg{
-    width: 10px;
+.div_benefits_uimg > img{
+    padding-top: 80%;
+    width: 3em;
 }
 
 .div_benefits_u2{
-    /*    background-color: turquoise;*/
+    /*  background-color: turquoise;*/
     border-bottom: 2px solid black;
     margin-top: 50px;
     margin-left: 10%;
