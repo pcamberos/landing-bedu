@@ -1,0 +1,114 @@
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/* 
+    Created on : 11/03/2019, 08:59:45 PM
+    Author     : juan.camberos
+*/
+
+h1 {
+    color: #000000;
+    text-align: center;
+    font-size: 38px;
+}
+
+.main_nav{
+    background-color: #000000;
+    color: #FFFFFF;
+    font-weight: bold;
+    text-align: left;
+    font-size: 20px;
+}
+
+
+.top_content{
+    margin-bottom: 3em;
+}
+
+.main_info{
+    display: inline-block;
+    margin-left: 36em;
+    margin-right: 4em;
+    margin-top:2em;
+
+}
+.first_actioncall{
+    display: inline-block;
+    vertical-align: center;
+    margin-right: 20em;
+    margin-top:2em;
+
+}
+
+.benefits{
+    /*background-color: silver;*/
+    height: 16em;
+
+}
+
+.div_benefits{
+    /*border: 1px solid #000000;*/
+    margin-left: 20%;
+    margin-right: 20%;
+    height: 49%;
+
+}
+
+.div_benefits_u1{
+    /*background-color: lightsalmon;*/
+    /*border: 1px solid white;*/
+    height: 100%;
+    width: 32.8%;
+    display: inline-block;
+}
+
+.div_benefits_uimg{
+    width: 10px;
+}
+
+.div_benefits_u2{
+    /*    background-color: turquoise;*/
+    border-bottom: 2px solid black;
+    margin-top: 50px;
+    margin-left: 10%;
+    margin-right: 10%;
+    height: 20%;
+
+
+}
+
+
+.testimonies{
+    display: inline-block;
+    background-color: lightgreen;
+}
+
+.box_testtimonies{
+
+}
+
+.box_testtimonies > .fill{
+    border-bottom: 1px solid #000000;
+}
+
+.incentive{
+    text-align: center;
+    padding-top: 1em;
+    padding-bottom: 1em;
+    font-size: 34px;
+}
+
+.secondcall{
+    text-align: center;
+    font-size: 30px;
+    padding-top: 2em;
+    padding-bottom: 2em;
+}
+
+.footer_confidence{
+    text-align: center;
+    padding-top: 5px;
+    padding-bottom: 5px;
+} 
